@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylanerenozdemir&show_icons=true&locale=en&layout=compact" alt="taylanerenozdemir" /></p>
 
 <p align="center">
-  <img src="https://github.com/taylanerenozdemir/taylanerenozdemir/blob/output/github-contribution-grid-snake.gif" alt="snake gif" width="100%" />
+  <img src="https://github.com/taylanerenozdemir/taylanerenozdemir/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="700" />
 </p>
 
 
