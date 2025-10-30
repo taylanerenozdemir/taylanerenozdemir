@@ -1,4 +1,4 @@
-![MasterHead]([https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp))
+![MasterHead]([[https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp)](https://graffersid.com/wp-content/uploads/2023/08/MERN-Stack-scaled.webp))
 <h1 align="center">Hi 👋, I'm Taylan Eren Özdemir</h1>
 <h3 align="center">A Junior Full-Stack Developer From Turkey</h3>
 
