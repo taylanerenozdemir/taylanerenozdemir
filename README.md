@@ -1,5 +1,5 @@
 ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Junior Full-Stack Developer From Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylanerenozdemir" alt="taylanerenozdemir" /></a> </p>
 
